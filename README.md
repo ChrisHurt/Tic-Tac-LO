@@ -15,9 +15,8 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-This is currently hosted on my website:
-- Landing Page: http://chrishcoding.tk/
-- Tic-Tac-LO: http://chrishcoding.tk/portfolio/Tic-Tac-LO/
+This is currently hosted here:
+- Tic-Tac-LO: https://chrishurt.github.io/ticTacLO/
 
 ## About The Project
 
