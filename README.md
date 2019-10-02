@@ -10,6 +10,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Installation](#installation) <!-- * [Usage](#usage) -->
+* [Demo](#Demo)
 * [Roadmap](#roadmap)
 * [License](#license)
 * [Contact](#contact)
@@ -31,6 +32,9 @@ Tic Tac LO (Lights Out) is a tic tac toe variant designed to introduce difficult
 ``` git clone https://github.com/ChrisHurt/Tic-Tac-LO.git ```
 2. Open index.html
 3. Enjoy the game!
+
+## Demo
+* Link: [https://chrishurt.herokuapp.com/tic-tac-LO](https://chrishurt.herokuapp.com/tic-tac-LO)
 
 ## Roadmap
 ### Initial Work
@@ -67,7 +71,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Chris Hurt - chrishcoding@gmail.com
 
-Project Link: [https://github.com/ChrisHurt/repo_name](https://github.com/ChrisHurt/Tic-Tac-LO)
+Project Link: [https://github.com/ChrisHurt/Tic-Tac-LO](https://github.com/ChrisHurt/Tic-Tac-LO)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
