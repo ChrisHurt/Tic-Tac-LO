@@ -16,9 +16,6 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-This is currently hosted here:
-- Tic-Tac-LO: https://chrishurt.github.io/ticTacLO/
-
 ## About The Project
 
 Tic Tac LO (Lights Out) is a tic tac toe variant designed to introduce difficulty in keeping track of your chosen positions. This is achieved through random board rotations and varying lighting conditions which obscure the cells of the board.
